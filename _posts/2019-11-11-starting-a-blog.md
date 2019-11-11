@@ -17,8 +17,8 @@ For me, it's a combination of career growth and giving back that I find most mot
 
 First, clear writing reflects clear thinking. Taking time to reflect on my ideas and publish them will help me clarify what I think and how I made decisions.
 
-Second, I want to join the public intellectual discourse. Everything I've ever learned by reading had to be written by someone. I hope this blog serves as a small step toward being a part of the ongoing conversation happening in books, blog posts, tweets, and other forms of public media.
+Second, I want to join the public intellectual discourse. Everything I've ever learned by reading has been written by someone. I hope this blog serves as a small step toward being a part of the ongoing conversation happening in books, blog posts, tweets, and other forms of public media.
 
-I'm hoping to post to this blog on a weekly basis, and I'm planning to write my first few posts about my approach to learning as a software engineer. Stay tuned!
+My intent is to post to this blog on a weekly basis, and I'm planning to write my first few posts about my approach to learning as a software engineer. Stay tuned!
 
 _Note: I've gratefully used Chase's blogging template to get up to speed quickly, and focus on the content of my blog, instead of the how of setting it up._
