@@ -2,6 +2,7 @@
 title: Starting a Blog
 tags: learning
 toc: false
+read_time: true
 excerpt: "The benefits of starting an engineering blog"
 ---
 
