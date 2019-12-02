@@ -2,7 +2,6 @@
 title: The Importance of Learning
 tags: learning
 toc: false
-read_time: true
 excerpt: "Coming to grips with how little I know about software"
 ---
 

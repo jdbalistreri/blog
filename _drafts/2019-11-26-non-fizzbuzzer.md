@@ -2,7 +2,6 @@
 title: The Peril of Becoming a Non-Fizzbuzzer
 tags: learning, career
 toc: false
-read_time: true
 excerpt: "Hidden dangers in a career in software development"
 ---
 

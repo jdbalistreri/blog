@@ -2,7 +2,7 @@
 title: Pay the Full Price
 tags: incentives
 toc: false
-read_time: true
+date: 2019-12-02
 excerpt: "Why it's better to avoid things that have been artificially subsidized"
 ---
 
