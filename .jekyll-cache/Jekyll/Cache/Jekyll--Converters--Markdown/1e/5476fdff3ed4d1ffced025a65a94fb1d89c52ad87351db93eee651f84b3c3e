@@ -1,0 +1,17 @@
+I"�	<p>About 2 years since my last post, I decided to write this one. I’m currently taking the Bradfield CSI, and I was inspired by the blog of one of my classmates. Nothing fancy, but he had consistently written posts for the past year or so.</p>
+
+<p>Reading back on the few posts I wrote when I started the blog, I’m cringing pretty hard. But perhaps that’s an indicator of growth.</p>
+
+<p>What’s changed since then?</p>
+
+<p>When I started the blog, I had recently finished a job search and started working as a SWE at Twitter. I had come off of a failing (at least according to me) to found a startup, and I had a lot of energy and enthusiasm for my career. But perhaps for the wrong reasons (money, “success”). This blog felt like another thing that would be good for me to do, and I even believed in the benefits of writing it. But as it turns out, I wasn’t doing it for the right reasons, and I soon stopped writing as my work picked up. I also was hoping to write one post/week, which looking back seems highly ambitious.</p>
+
+<p>These days, I still work at Twitter, albeit from home. I’ve gotten promoted (woo!), and I’ve actually done a lot of the learning I said I wanted to do in my early blog posts. I’ve doubled down on that by taking the Bradfield CSI (a year-long course on CS fundamentals). I feel more stable and confident in my career, and I enjoy it more. I used to be very focused on FIRE (financial independence, retire early), which I think caused me to view work as a means to an end. Back then I missed out on a lot of the joy and personal growth that can come from work. I also didn’t spend much of the money I was making, which can make the whole equation feel pretty tight. I’m also hoping I’m a little more gentle and less focused on being perfect than before.</p>
+
+<p>So we’ll see where it goes. Will I write another blog post? I’m not sure. But I did write this one.</p>
+
+<p>Fun note:
+When I started this blog, I copied the template from someone else, assuming I’d only have to deal with the markdown files used to create the blog posts. As it turns out, software decays over time, and I’m struggling to run the Jekyll server that hosts this blog locally. Seems like the best option for now is to “test in prod”. If I do end up sticking with this blog, I’ll spend some time fixing the server logic another day.</p>
+
+<p>I’ve also noticed that my taste in tech blog aesthetics has veered toward more minimalist styles (a la Dan Luu).</p>
+:ET

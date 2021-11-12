@@ -56,6 +56,7 @@ defaults:
       share: false
       related: false
       toc_label: "On this page"
+      show_date: true
   -
     scope:
       path: "files" # path to href is /blog/files/foo.pdf
