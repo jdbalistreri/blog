@@ -16,7 +16,7 @@
 title: Joe Balistreri's Blog
 title_separator: "-"
 email:
-description: Facts, hacks and attacks from my life as a web application developer
+description: Somewhere between business and personal
 url: "https://jdbalistreri.github.io"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 repository: "jdbalistreri/jdbalistreri.github.io"
