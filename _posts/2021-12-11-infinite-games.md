@@ -1,5 +1,5 @@
 ---
-title: Book Reflections: Finite and Infinite Games
+title: Book Reflections - Finite and Infinite Games
 tags:
 toc: false
 date: 2021-12-11
