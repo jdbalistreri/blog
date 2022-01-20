@@ -1,5 +1,8 @@
 # Joe's Blog
 
+## Issues last time
+Last time i ran into issues installing Jekyll (similar to https://github.com/netlify-templates/jekyll-netlify-cms/issues/8). However, I got it to successfully run using `bundle upgrade`. I was then able to use `make server` to get things started. Using ruby 2.5.1
+
 ## Install
 
 See: https://jekyllrb.com/docs/quickstart/
